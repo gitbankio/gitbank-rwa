@@ -1,0 +1,6 @@
+{
+  "extends": "./contracts/tsconfig.json",
+  "compilerOptions": {
+    "composite": false
+  }
+}

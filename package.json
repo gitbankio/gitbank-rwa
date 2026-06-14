@@ -1,0 +1,9 @@
+{
+  "name": "gitbank-rwa",
+  "private": true,
+  "packageManager": "pnpm@10.10.0",
+  "scripts": {
+    "compile": "pnpm --filter @workspace/contracts run compile",
+    "test": "pnpm --filter @workspace/contracts run test"
+  }
+}
